@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov_2", "Tymakov_2\Tumakov_2.csproj", "{3F2AF281-AE02-4C79-9A0A-D0DA3D3B1BFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov_3", "Tumakov_3\Tumakov_3.csproj", "{A078CFE3-F134-4C87-97FC-830C1D8C1189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw_21.09", "hw_21.09\hw_21.09.csproj", "{BCED544C-BBE3-4135-A0F4-B55A4F2F8A4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F2AF281-AE02-4C79-9A0A-D0DA3D3B1BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2AF281-AE02-4C79-9A0A-D0DA3D3B1BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2AF281-AE02-4C79-9A0A-D0DA3D3B1BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2AF281-AE02-4C79-9A0A-D0DA3D3B1BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A078CFE3-F134-4C87-97FC-830C1D8C1189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A078CFE3-F134-4C87-97FC-830C1D8C1189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A078CFE3-F134-4C87-97FC-830C1D8C1189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A078CFE3-F134-4C87-97FC-830C1D8C1189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCED544C-BBE3-4135-A0F4-B55A4F2F8A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCED544C-BBE3-4135-A0F4-B55A4F2F8A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCED544C-BBE3-4135-A0F4-B55A4F2F8A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCED544C-BBE3-4135-A0F4-B55A4F2F8A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3555780E-B39F-4270-A949-EF1970804606}
+	EndGlobalSection
+EndGlobal
